@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hieuVuu
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ReactJS, VueJS, NextJS
+- 🌱 I’m currently work with ReactJS, VueJS, AngularJS 
 - 💞️ I’m looking to collaborate on Frontend Web development
 - 📫 How to reach me vuchihieuu112@gmail.com or facebook: https://www.facebook.com/ihaveabear/
 
