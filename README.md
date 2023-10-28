@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hieuVuu
 - 👀 I’m interested in web development
-- 🌱 I’m currently working with ReactJS, VueJS, AngularJS, NextJs, NodeJs 
-- 💞️ I’m looking to collaborate on Web development
+-  I’m currently working in software development, web development with ReactJS, VueJS, AngularJS, NextJs, NodeJs, mobile development with flutter
+- 💞️ I’m looking to collaborate on Software development
 - 📫 How to reach me vuchihieuu112@gmail.com 
 
 <!---
